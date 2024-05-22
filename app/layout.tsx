@@ -51,7 +51,7 @@ export default function RootLayout({
                 title="homepage"
               >
                 <span className="text-default-600">template by</span>
-                <p className="text-primary">rohitgadekar</p>
+                <p className="text-[#0CC0DF]">rohitgadekar</p>
               </Link>
             </footer>
           </div>
