@@ -47,7 +47,7 @@ export default function RootLayout({
               <Link
                 isExternal
                 className="flex items-center gap-1 text-current"
-                href="rohitgadekar.com"
+                href="https://www.rohitgadekar.com"
                 title="homepage"
               >
                 <span className="text-default-600">template by</span>
