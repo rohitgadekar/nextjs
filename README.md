@@ -36,4 +36,4 @@ npm run dev
 
 ## Screenshots
 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/nextjs-ac1be.appspot.com/o/template%2FScreenshot%202024-05-22%20131110.png?alt=media&token=3018257b-6d38-4334-9406-0fbada49862f)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/nextjs-ac1be.appspot.com/o/template%2FScreenshot%202024-05-22%20131621.png?alt=media&token=27006e0e-9351-4ab9-9659-bb178abda204)
